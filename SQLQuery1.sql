@@ -1,0 +1,1 @@
+create database [mi primer base de datos]
